@@ -1,11 +1,94 @@
-.poppins-light {
-    font-family: "Poppins", sans-serif;
-    font-weight: 300;
+.merriweather-light {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
     font-style: normal;
-    font: size 31px;
-  font-display: white
+    font-size: 32px;
+    /* padding: 177px 531px 383px 530px; */
+    text-align: center;
+    height: 12px;
+    margin-top: -10px;
+  }
+  
+  .merriweather-black {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 70px;
+    /* padding: 233px 344px 177px 344px; */
+    text-align: center;
+    height: 65px;
+    margin-top: 15px;
+    
+
+  }
+  
+header{
+         color: white;
+         
+     background-image:url('../BANNER.png');
+     background-repeat: no-repeat;
+     flex-shrink: 0px;
+     border-radius: 16;
+    height:600px ;
+    width: 100%;
+    margin: 0 auto;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.507);
+    background-blend-mode: multiply;
+   
 }
 
-header {background-image: url(Banner\ Image.png);
-       
-  }
+.sec { color: red;
+         font-size: 72px;
+        justify-content: center;
+        align-items: center;
+        font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.tan{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+   font-size: 24px;
+   display: flex;
+   justify-content: center;
+    align-items: center;
+   color:red ;
+}
+
+.cot{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+   font-size:48px;
+   display: flex;
+   justify-content: center;
+    align-items: center;
+    margin-top:1%;
+}
+ 
+.new{
+  display: flex;
+   justify-content: center;
+    align-items: center;
+}
+
+
