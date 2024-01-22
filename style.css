@@ -89,6 +89,82 @@ header{
   display: flex;
    justify-content: center;
     align-items: center;
+
+}
+
+.well{
+  font-family: "Merriweather", serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 64px;
+  margin-left: 130px;
+  color: white;
+   line-height: 25px; 
+  margin-bottom: 2px;
+
 }
 
 
+.unscripted{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+  margin-left: 130px;
+  color: white;
+  margin-bottom: 50px;
+    
+}
+
+.but{
+   margin-left:160px ; 
+   background: transparent;
+   border: none;
+   color: white; 
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 700;
+   font-style: normal;
+   font-variation-settings:
+     "slnt" 0;
+   font-size: 20px;
+}
+
+
+
+
+.cosec{
+    background-image: url(Vectorrr.png);
+    background-repeat: no-repeat;
+    display: flex;
+    /* flex-direction: column; */
+    background-position: center;
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto;
+    height: 600px;
+
+    right: 50%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.507);
+    
+    background-blend-mode: multiply;
+    margin-top: 120px;
+
+}
+
+.group{
+  margin-top: 65px;
+  margin-right: -550px;
+}
+ 
+.sin{
+  margin-left: -620px;
+  margin-top: 90px;
+   padding-right: 150px;
+   color: white;
+}
