@@ -167,4 +167,125 @@ header{
   margin-top: 90px;
    padding-right: 150px;
    color: white;
+}  
+
+.center{
+  text-align: center;
+  padding: 110px  120px 100px 110px;
+  background: linear-gradient(180deg, rgba(255, 0, 0, 0.1) 0%, rgba(255, 0, 0, 0) 100%);
+  background: linear-gradient(180deg, rgba(255, 0, 0, 0.1) 0%, rgba(255, 0, 0, 0) 100%);
+  margin: 105px 110px 105px 110px;
+ }
+  
+.place{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+    font-size: 24px;
+    line-height: 25px;
 }
+
+.body{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+    font-size: 30px;
+    /* line-height: 35px; */
+  /* background: #FF0000; */
+  width: auto red;
+  height: auto red;
+  color: #FFFFFF;
+  }
+
+.best{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+    color: red;
+  font-size: 20px;
+}
+
+.soon{
+  font-family: "Merriweather", serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 48px;
+  Line-height: 28px;
+  display: flex;
+  justify-content: first baseline;
+}
+
+.sit{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.middle{
+  border: 15px solid red;
+  border-radius: 50%;
+       height: 35%;      
+      /* width: 29%;       */
+      width: auto 0;  
+      /* height: auto 0;  */
+  justify-content: center;
+   align-items: center;
+  overflow: hidden;
+  padding-left: 22px;
+  margin-left: 35px;
+  padding-right: 57px;
+  padding-top: 20px;
+  padding-bottom: 18px;
+
+  margin-left: 30px;
+  margin-right: 10px;
+}
+
+.last{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+    font-size: 30px;
+   color: red;
+    font-size: 45px;
+}
+
+ .set{ 
+   display: flex; 
+   margin: 100px 105px 100px 105px; 
+} 
+
+
+.left{
+  padding-left: 150px;
+ margin: ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
