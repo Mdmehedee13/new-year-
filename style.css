@@ -198,10 +198,14 @@ header{
     font-size: 30px;
     /* line-height: 35px; */
   /* background: #FF0000; */
-  width: auto red;
-  height: auto red;
+  /* width: auto red; */
+  /* height: auto red; */
   color: #FFFFFF;
-  }
+  background: red;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 8px;
+}
 
 .best{
   font-family: "Inter", sans-serif;
@@ -275,17 +279,91 @@ header{
 
 .left{
   padding-left: 150px;
- margin: ;
+
 }
 
 
+.what{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+    font-size: 24px;
+}
 
 
+.holiday{
+  font-family: "Merriweather", serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 72px;
+}
 
 
+#concept{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+    font-size: 20px;
+}
 
 
+.function{
+   text-align: center; 
+   justify-content: center; 
+   align-items: center; 
+}
 
 
+.cos{
+  background-image: url('Rectangle\ 1.png');
+  background-repeat: no-repeat;
+  /* background-position: right 120px; */
+  /* height: 2000px; */
+   /* padding-bottom: 120px;   */
+  background-position: right;
+   margin-left:  50px; 
+   margin-top: 50px; 
+   /* padding-left: 700px;  */
+   /* padding-right: -40px;  */
+  height: 430px;
+  
+}
 
 
+.cos img{
+ padding-left:  700px;
+}
+
+.four{
+  background-image: url("Rectangle\ 2.png");
+  background-repeat: no-repeat;
+  margin-left: 13px;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  /* margin-bottom: 460px; */
+  position: relative;
+  bottom:  auto;
+    width: 100%;  
+   /* border-radius: 16px, 0px, 16px, 16px; */
+   top: 0px;
+}  
+
+
+.five{
+  position: relative;
+  
+ 
+}
+
+
+.two{
+  position: absolute;
+  top: -400px;
+}
