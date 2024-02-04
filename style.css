@@ -7,6 +7,7 @@
   text-align: center;
   height: 12px;
   margin-top: -10px;
+  line-height: 40px;
 }
 
 .merriweather-black {
@@ -17,8 +18,8 @@
   /* padding: 233px 344px 177px 344px; */
   text-align: center;
   height: 65px;
-  margin-top: 15px;
-  
+  margin-top: 55px;
+  line-height: 95px;
 
 }
 
@@ -188,23 +189,23 @@ font-variation-settings:
   line-height: 25px;
 }
 
-.body{
+.body button{
 font-family: "Inter", sans-serif;
 font-optical-sizing: auto;
 font-weight: 700;
 font-style: normal;
 font-variation-settings:
   "slnt" 0;
-  font-size: 30px;
+  font-size: 15px;
   /* line-height: 35px; */
 /* background: #FF0000; */
 /* width: auto red; */
 /* height: auto red; */
 color: #FFFFFF;
 background: red;
-padding: 5px 10px;
+padding: 10px 20px;
 border: none;
-border-radius: 8px;
+border-radius: 5px;
 }
 
 .best{
@@ -444,4 +445,117 @@ margin-left: 20px;
   border: none;
   border-top-left-radius: 30px;
   border-bottom-left-radius: 30px;
+}
+
+
+#footer-first{
+  /* display: flex;
+  align-items: ; */
+  justify-content: space-between;
+  color: white;
+  height: 620px;
+  
+}
+
+
+.thirteen{
+  text-align: right;
+  padding-right: 180px ;
+  line-height: 30px; 
+  padding-top: 80px; 
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
+
+
+.full-footer{
+  left: 0;
+  right: 0;
+  background: rgb(7, 2, 17);
+  
+}
+
+
+#footer-first img{
+  /* height: 46px;
+  width: 65px; */
+  color: white;
+  height: 100px;
+  
+}
+
+
+.garden{
+  padding-left: 150px ;
+  line-height: 30px; 
+  padding-top: 70px; 
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+    text-align: left;
+    position: absolute;
+}
+
+
+#first-line {
+  width: 83%;
+  height: 3px;
+  background:    rgba(255, 255, 255, 0.15);
+  border-radius: 2px 0px ;
+  margin-left: 95px;
+  margin-top: 80px;
+}
+
+
+.social{
+  padding-left: 450px;
+  margin-top: 50px;
+  
+}
+
+
+#second-line{
+  width: 83.5%;
+  height: 3px;
+  background:    rgba(255, 255, 255, 0.15);
+  border-radius: 2px 0px ;
+  margin-top: 50px;
+  margin-left: 95px;
+}
+
+
+#all{
+  text-align: left;
+  padding-left: 150px ;
+  line-height: 30px; 
+  padding-top: 70px; 
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+    text-align: left;
+    position: absolute;
+}
+
+#right{
+ text-align: right ; 
+ padding-right: 120px ;
+ 
+ padding-top: 70px; 
+ 
+ font-family: "Inter", sans-serif;
+ font-optical-sizing: auto;
+ font-weight: 500;
+ font-style: normal;
+ font-variation-settings:
+   "slnt" 0;
 }
